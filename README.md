@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🌊 MarFS-Net</h1>
   <p><strong>Maritime Obstacle Segmentation Framework based on Frequency-Domain Purification and Spatial Calibration</strong></p>
-  <p>Official PyTorch implementation of MarFS-Net</p>
+  <p>Official PyTorch implementation of MarFS-Net</strong></p>
 </div>
 
 ## 📖 Abstract
@@ -19,7 +19,7 @@ MarFS-Net contains three principal components:
 On the complex-sea-state evaluation subset constructed from the public LaRS dataset, MarFS-Net achieves an **mIoU of 0.7085**, an **mDice of 0.7604**, an **mRecall of 0.8069**, an **mBIoU of 0.5976**, and an **mHD95 of 22.4301**.
 
 <p align="center">
-  <img src="./MarFS-Net.png" width="90%" alt="Overall architecture of MarFS-Net">
+  <img width="1902" height="991" alt="MarFS-Net" src="https://github.com/user-attachments/assets/4e32514e-9097-452a-9ad1-a37a719c5e0f" />
 </p>
 <p align="center">
   <em>Overall architecture of the proposed MarFS-Net.</em>
